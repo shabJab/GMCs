@@ -32,11 +32,10 @@ build/
 ### VS Code ###
 .vscode/
 
-./mvnw
-./mvnw.cmd
 .mvn
-
 ./src/test
-./src/main/frontend/node_modules/
-./src/main/frontend/public
-./src/main/frontend/package-lock.json
+/src/main/frontend/package-lock.json
+/src/main/frontend/node_modules/
+/src/main/
+/mvnw
+/mvnw.cmd
