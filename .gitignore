@@ -33,7 +33,7 @@ build/
 .vscode/
 
 .mvn
-./src/test
+/src/test
 /src/main/frontend/package-lock.json
 /src/main/frontend/node_modules/
 /src/main/
